@@ -3,8 +3,11 @@
 ### Create a new directory and initialize it as a Git repository
 
 <em> $ mkdir git_assignment_2 </em>
+
 <em> $ cd git_assignment_2 </em>
+
 <em> $ git init </em>
+
 
 ### Add a README.md file, Stage and commit the README.md file
 
